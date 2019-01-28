@@ -24,12 +24,9 @@ Application can be started in following ways:
 * From Spring Tool Site(STS) IDE simply right click and run as Spring Boot App.
 * And to execute from Command line use the either mvn exec:java or mvn spring-boot:run commands
 
-To access the application, please access below urls:
-
 ## REST API Endpoints ##
 
-* Sync Endpoint  : http://localhost:8080/email
-* Async Endpoint : http://localhost:8080/asyncEmail
+* API Endpoint : http://localhost:8080/asyncEmail
 
 ## API Documentation (Swagger) URL ##
 
